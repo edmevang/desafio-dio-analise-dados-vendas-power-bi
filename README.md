@@ -18,7 +18,7 @@ Este projeto tem como objetivo analisar a distribuição de lucro, vendas e unid
   * Visualiza a distribuição geográfica do lucro, com foco nos mesmos continentes.
   * **Observação:** A América do Norte também concentra o maior lucro.
 
-#### Conclusões Preliminares (Adaptar conforme sua análise)
+#### Conclusões Preliminares
 * O segmento "Enterprise" é o mais lucrativo para a empresa.
 * A América do Norte é o principal mercado, tanto em termos de vendas quanto de lucro.
 * A Europa também apresenta um desempenho significativo.
